@@ -1,11 +1,12 @@
-Hey, there! I'm Srinjoy Santra.
+Hey, there! I'm **Srinjoy Santra**.
 
 ### Connect with me:
 
 [<img align="left" alt="https://srinjoy-santra.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="srinjoy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="srinjoy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="srinjoy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />][quora]
+[<img align="left" alt="srinjoy | Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
+[<img align="left" alt="srinjoy | Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />][quora]
 
 <br/>
 
@@ -20,19 +21,20 @@ Hey, there! I'm Srinjoy Santra.
 - [My first Hackathon :](https://medium.com/@srinjoysantra/my-first-hackathon-ff581c079b05?source=rss-6192d85e137e------2)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://medium.com/@srinjoysantra)
 
 ---
 
 <details>
-  <summary>:zap: Github Stats</summary>
+  <summary><strong>:zap: Github Stats</strong></summary>
 
   <img align="left" alt="Srinjoy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Srinjoy-Santra&show_icons=true&hide_border=true&count_private=true" />
 
-  <img align="left" alt="Srinjoy's languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinjoy-Santra" />
+  <img align="left" alt="Languages used by Srinjoy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinjoy-Santra" />
 </details>
 
 [website]: (https://srinjoy-santra.github.io/
 [twitter]: https://twitter.com/srinjoy_s
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://linkedin.com/in/srinjoy-santra
+[stackoverflow]: https://stackoverflow.com/users/7551079/srinjoy-santra
 [quora]: https://www.quora.com/profile/%E0%A6%B8%E0%A7%83%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A6%AF%E0%A6%BC-%E0%A6%B8%E0%A6%BE%E0%A6%81%E0%A6%A4%E0%A6%B0%E0%A6%BE-Srinjoy-Santra
