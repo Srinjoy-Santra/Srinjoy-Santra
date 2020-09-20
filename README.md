@@ -4,7 +4,11 @@
 
 <br/>
 
- I'm **Srinjoy Santra**. I fell in love with coding when I was doing my high school project. It was the game of Minesweeper made in Java. Since then I have dabbled in various technologies and tools throughout my undergraduate years. I have acquired some awesome real-life experiences through diverse internships and personal projects till now. Excited for the next chapters of my life!!
+ I'm **Srinjoy Santra**.
+ - I fell in 💗 with coding when I was doing my high school project. It was the game of Minesweeper made in Java.
+ -  Since then I have dabbled with various technologies and tools throughout my undergraduate years. ⚙️
+ -  I have acquired some awesome real-life experiences through diverse internships and personal projects till now. 👨‍💻
+ -  Excited for the next chapters of my life!! 😊
 
 ---
 
