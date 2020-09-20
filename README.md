@@ -13,6 +13,11 @@ Hey, there! I'm Srinjoy Santra.
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Concurrent Merge Sort in Golang](https://medium.com/@srinjoysantra/concurrent-merge-sort-in-golang-f09ffbfb9fae?source=rss-6192d85e137e------2)
+- [React Hooks: Building a simple like-dislike review system](https://medium.com/@srinjoysantra/react-hooks-building-a-simple-like-dislike-review-system-230b98fe0548?source=rss-6192d85e137e------2)
+- [A brief overview of JavaScript Objects](https://medium.com/@srinjoysantra/a-brief-overview-of-javascript-objects-cdae660b561f?source=rss-6192d85e137e------2)
+- [My experience as a Google India Challenge Scholarship recipient](https://medium.com/@srinjoysantra/my-experience-as-a-google-india-challenge-scholarship-recipient-58ebddcbd4d1?source=rss-6192d85e137e------2)
+- [My first Hackathon :](https://medium.com/@srinjoysantra/my-first-hackathon-ff581c079b05?source=rss-6192d85e137e------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://codestackr.com)
