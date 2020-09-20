@@ -4,11 +4,10 @@ on:
     # Runs every 1 hour
     - cron: '0 * * * *'
   workflow_dispatch
-  
 jobs:
   update-readme-with-blog:
-    name: Updare this repo's README with latest blog posts
-    runs-on: ubuntu-Latest
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
