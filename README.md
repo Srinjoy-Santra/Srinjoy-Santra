@@ -29,7 +29,7 @@ Hey, there! I'm Srinjoy Santra.
 
   <img align="left" alt="Srinjoy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Srinjoy-Santra&show_icons=true&hide_border=true&count_private=true" />
 
-  <img align="left" alt="Srinjoy's languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra" />
+  <img align="left" alt="Srinjoy's languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinjoy-Santra" />
 </details>
 
 [website]: (https://srinjoy-santra.github.io/
