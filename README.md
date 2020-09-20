@@ -18,6 +18,15 @@ Hey, there! I'm Srinjoy Santra.
 ➡️ [more blog posts...](https://codestackr.com)
 
 ---
+
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="Srinjoy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Srinjoy-Santra&show_icons=true&hide_border=true&count_private=true" />
+
+  <img align="left" alt="Srinjoy's languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra" />
+</details>
+
 [website]: (https://srinjoy-santra.github.io/
 [twitter]: https://twitter.com/srinjoy_s
 [linkedin]: https://linkedin.com/in/codeSTACKr
