@@ -1,10 +1,6 @@
-<div align="center">
-<img alt="GIF" src="https://media.giphy.com/media/2FayYXU90QS9MmAIo/giphy.gif"/>
-</div>
 
-<br/>
 
- I'm **Srinjoy Santra**.
+ # Hi, I'm Srinjoy 👋 [![Twitter Follow](https://img.shields.io/twitter/follow/s_srinjoy?label=Follow&style=social)](https://twitter.com/s_srinjoy)
  - I fell in 💗 with coding when I was doing my high school project. It was the game of Minesweeper made in Java.
  -  Since then I have dabbled with various technologies and tools throughout my undergraduate years. ⚙️
  -  I have acquired some awesome real-life experiences through diverse internships and personal projects till now. 👨‍💻
